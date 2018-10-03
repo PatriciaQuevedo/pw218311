@@ -1,0 +1,14 @@
+selectores: 
+   etiquetas
+     atributo:valor;
+   identificadores
+     atributo:valor;
+   clases 
+     atributo:valor;
+   pseudoelementos
+    atributo:valor;
+
+    body{
+    	background: rgb(0,0,0);
+    	color: white;
+    }
