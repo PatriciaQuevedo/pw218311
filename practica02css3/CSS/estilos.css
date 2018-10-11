@@ -3,6 +3,7 @@ body{
 	margin: 0px auto;
 	max-width: 1078px;
 	min-width: 1078px;
+	/*border: 1px solid blue;*/
 
 }
 header input{
@@ -44,13 +45,14 @@ header nav ul li{
 #primerSeccion{
 	/*border:1px solid blue;*/
 	margin-top: 60px;
-	/*height: 318px;*/
+	height: 318px;
 	
 }
 #primerSeccion article{
 	/*border:1px solid red;*/
 	display: inline-block;
 	vertical-align: top;
+
 }
 
 
@@ -71,15 +73,49 @@ header nav ul li{
 	color: #FF0099;
 	content: "• ";
 }
+
+#secc03art04{
+	padding-top: 50px;
+}
+#terceraSeccion article{
+	display: inline-block;
+	width: 23%;
+	vertical-align: top;
+	margin-right: 15px;
+
+}
+#terceraSeccion article input[type="email"]{
+	border-radius: 5px;
+}
+
+#terceraSeccion article input[type="button"]{
+	border-radius: 5px;
+	background: #8BC500;
+	color:white;
+}
+
+#terceraSeccion article img{
+	vertical-align: middle;
+}
 #segundaSeccion article{
 	padding-right: 130px;
 	text-align: right;
 }
+.colorazul{
+	color:#4267B3;
+}
 .colorrosa{
 	color: #FF0099;
 }
+.colorverde{
+	color:#8BC500;
+}
+
 .letragrande{
 	font-size: 3.5em;
+}
+.letramediana{
+	font-size: 2em;
 }
 .nito{
 	font-weight: bold;
