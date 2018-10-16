@@ -1,0 +1,163 @@
+body{
+	background: rgb(43,43,43 );		
+	margin: 0px auto;
+	max-width: 1280px;
+	min-height: 1080px;
+}
+header{
+	background-color: white;
+	padding-top: 5px;
+	padding-bottom: 25px;
+	display: inline-flex;	
+}
+header input{
+	text-align:right;
+	margin-top: 5px;
+	margin-left: 30px;
+	width: 180px;
+	height: 36px;	
+
+}
+header img{	
+	width:1023px;
+  	height: 58px;
+	vertical-align: top;
+	margin-left: 55px;
+}
+#seccion01{
+	margin-top: 20px;			
+	display: inline-flex;
+	color: white;
+	
+}
+#seccion01 img{   
+	width: 13em;
+	
+}
+#seccion01art01{
+	width: 150px;
+	margin-right: 100px;
+	margin-left: 18px;
+
+}
+#seccion01art01 article{
+	margin-left: 60px; 
+}
+#seccion01art01 article article{
+	margin-left: 0px; 
+}
+#seccion01art02{
+	width: 243px;	
+	background: rgb(180,208,82 );
+}
+#seccion01art02 article{
+	margin-bottom: 20px;
+}
+#seccion01art03 article{
+	margin-bottom: 20px;
+}
+#seccion01art03{
+	width: 244px;	
+	background: rgb(84,84,84 );	
+}
+#seccion01art04{
+	width: 244px;
+	background: rgb(212,45,63 );
+}
+#seccion01art05{
+	width: 247px;
+	background: rgb(228,228,228 );
+	padding-bottom: 40px;	 	
+}
+#seccion02{
+	display: inline-flex;
+	padding-top: 30px;	
+	margin-top: 20px;
+	border-top: solid rgb(68,68,68) 0.02px;   	
+
+}
+#seccion02 article img{
+	width: 321px;
+	height: 39px;
+	padding-bottom: 15px;
+	border-bottom: dashed;
+  	border-width: 1px; 
+  	border-color: rgb(150,150,150);
+	
+}
+#seccion03{
+	display: inline-flex;
+	margin-left: 40px;	
+}
+#seccion03 article{
+	margin-right: 100px;
+}
+#seccion03art01{
+	padding-top: 10px;
+	width: 295px;
+}
+#seccion03art02{
+	padding-top: 10px;
+	width: 290px;
+	margin-left: 60px;
+}
+#seccion03art03{
+	padding-top: 10px;
+	width: 290px;	
+	margin-left: 60px;	
+}
+#seccion03art03 p{
+	margin-bottom: 40px;
+}
+#primerimg{
+	padding-left: 60px;
+	margin-right: 60px;
+}
+#segundaimg{
+	padding-left: 60px;
+	margin-right: 60px;
+}
+#tercerimg{
+	padding-left: 80px;
+
+}
+#colorblue{
+	color: rgb(64,87,100);
+}
+
+
+.nito{
+	font-weight: bold;
+}
+.letragrande{
+	font-size: 33px;	
+}
+.pading{
+	padding-top: 25px;
+	padding-left: 10px;
+
+}
+
+.texto{
+	padding-right: 20px;
+
+}
+.colorgray{
+	color: gray;
+}
+.colorwhite{
+	color: white;
+}
+
+.cinco{	
+	padding-right: 4px;
+}
+.readmore{
+	margin-left: 70%;
+}
+.espacio{
+	margin-bottom: 20px;
+}
+
+
+
