@@ -4,8 +4,10 @@
   "description": "Aprender el uso de npm en los proyectos web",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "empaqueta":"electron-packager . calculadora --overwrite --asar"
+  },//npm run empaqueta
   "keywords": [
     "node",
     "npm",
@@ -18,6 +20,7 @@
   "author": "Jhazely Quevedo",
   "license": "MIT",
   "devDependencies": {
+    "asar": "^0.14.5",
     "electron": "^3.0.8",
     "electron-packager": "^12.2.0",
     "electron-require": "^0.3.0"
